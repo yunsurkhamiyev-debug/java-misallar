@@ -1,6 +1,6 @@
 package misallar;
 import java.util.Scanner;
-public class misal5 {
+public class misal05 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int a=scanner.nextInt();

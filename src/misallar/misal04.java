@@ -2,7 +2,7 @@ package misallar;
 import java.util.Scanner;
 
 
-public class misal4 {
+public class misal04 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         double c=scanner.nextDouble();

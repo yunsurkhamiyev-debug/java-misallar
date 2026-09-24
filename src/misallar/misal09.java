@@ -1,8 +1,7 @@
 package misallar;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class misal9 {
+public class misal09 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int bal=scanner.nextInt();
